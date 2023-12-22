@@ -8,7 +8,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/chuccp/cokeV2ray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/DA21S321D/cokeV2ray) 
 
 由于本GitHub地址被限制 ，使用者可以将项目fork到自己的GitHub
 
